@@ -1,2 +1,2 @@
-# solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+A bunch of solutions using algorithms and java sql ... 
+Resolving problems that exist in leetcode 
